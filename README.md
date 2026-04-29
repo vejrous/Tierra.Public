@@ -1,6 +1,6 @@
 # TierraSign — Uživatelská příručka
 
-TierraSign je nástroj pro elektronické podepisování geodetických adresářů (např. ZPMZ).
+TierraSign je nástroj pro elektronické podepisování adresářů (např. ZPMZ, DMVS).
 Vytváří ověřovací soubory s kryptografickými hashi, CMS podpisem a časovým razítkem TSA.
 
 ---
